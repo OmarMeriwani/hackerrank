@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush using prefix sum\bin\Debug\Algorithmic crush using prefix sum.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush using prefix sum\bin\Debug\Algorithmic crush using prefix sum.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush using prefix sum\obj\x86\Debug\Algorithmic crush using prefix sum.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush using prefix sum\obj\x86\Debug\Algorithmic crush using prefix sum.pdb
