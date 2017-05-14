@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\itoa\bin\Debug\itoa.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\itoa\bin\Debug\itoa.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\itoa\obj\x86\Debug\itoa.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\itoa\obj\x86\Debug\itoa.pdb

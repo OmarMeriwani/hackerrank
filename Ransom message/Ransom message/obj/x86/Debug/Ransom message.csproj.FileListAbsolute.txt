@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Ransom message\bin\Debug\Ransom message.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Ransom message\bin\Debug\Ransom message.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Ransom message\obj\x86\Debug\Ransom message.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Ransom message\obj\x86\Debug\Ransom message.pdb

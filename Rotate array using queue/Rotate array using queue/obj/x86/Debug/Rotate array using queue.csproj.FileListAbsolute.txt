@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Rotate array using queue\bin\Debug\Rotate array using queue.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Rotate array using queue\bin\Debug\Rotate array using queue.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Rotate array using queue\obj\x86\Debug\Rotate array using queue.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Rotate array using queue\obj\x86\Debug\Rotate array using queue.pdb

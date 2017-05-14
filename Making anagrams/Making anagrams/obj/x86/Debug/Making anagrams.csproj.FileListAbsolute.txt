@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Making anagrams\bin\Debug\Making anagrams.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Making anagrams\bin\Debug\Making anagrams.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Making anagrams\obj\x86\Debug\Making anagrams.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Making anagrams\obj\x86\Debug\Making anagrams.pdb
