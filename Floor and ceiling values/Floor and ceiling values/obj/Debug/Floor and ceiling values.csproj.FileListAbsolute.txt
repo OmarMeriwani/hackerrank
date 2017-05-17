@@ -1,1 +1,6 @@
 C:\Users\omar.sirwan\Documents\hackerrank\Floor and ceiling values\Floor and ceiling values\bin\Debug\Floor and ceiling values.exe.config
+C:\Users\omar.sirwan\Documents\hackerrank\Floor and ceiling values\Floor and ceiling values\bin\Debug\Floor and ceiling values.exe
+C:\Users\omar.sirwan\Documents\hackerrank\Floor and ceiling values\Floor and ceiling values\bin\Debug\Floor and ceiling values.pdb
+C:\Users\omar.sirwan\Documents\hackerrank\Floor and ceiling values\Floor and ceiling values\obj\Debug\Floor and ceiling values.csprojResolveAssemblyReference.cache
+C:\Users\omar.sirwan\Documents\hackerrank\Floor and ceiling values\Floor and ceiling values\obj\Debug\Floor and ceiling values.exe
+C:\Users\omar.sirwan\Documents\hackerrank\Floor and ceiling values\Floor and ceiling values\obj\Debug\Floor and ceiling values.pdb
