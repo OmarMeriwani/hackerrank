@@ -1,0 +1,19 @@
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\ApplicationInsights.config
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Activation Service.dll.config
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Activation Service.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Activation Service.pdb
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.Web.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.ApplicationInsights.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.Web.xml
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\bin\Microsoft.ApplicationInsights.xml
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\obj\Debug\Activation Service.csprojResolveAssemblyReference.cache
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\obj\Debug\Activation Service.dll
+C:\Users\omar.sirwan\Documents\hackerrank\Activation Service\Activation Service\obj\Debug\Activation Service.pdb
