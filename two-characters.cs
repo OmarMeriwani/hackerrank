@@ -4,12 +4,12 @@ using System.IO;
 using System.Linq;
 class Solution {
 
-    static string SelectDistinct (string original)
+    static string SelectDistinct (string original) // O(n)
     {
         Dictionary<string, string> dic = new Dictionary<string, string>();
-        for (int i = 0; i < original.Length; i++)
+        for (int i = 0; i < original.Length; i++) // O(n)
         {
-            string c = original[i].ToString();
+            string c = original[i].ToString(); // O(1) -- Ignored
             try
             {
                 dic.Add(c,"1");
@@ -20,15 +20,16 @@ class Solution {
             }
         }
         string result = "";
-        foreach (KeyValuePair<string, string> k in dic)
+        foreach (KeyValuePair<string, string> k in dic)// O(n)
         {
             result += k.Key;
         }
         return result;
+		// O(2n) ~ O(n)
     }
     static bool test(string s)
     {
-        for (int i = 1 ; i < s.Length; i++)
+        for (int i = 1 ; i < s.Length; i++) // O(n)
         {
             if (s[i] == s[i - 1])
             {
@@ -37,16 +38,16 @@ class Solution {
         }
         return true;
     }
-    static string GetOthers(string[] pair, string distinct)
+    static string GetOthers(string[] pair, string distinct) // O(n^2)
     {
-        string res = distinct;
+        string res = distinct; 
         foreach (string s in pair)
         {
             res = res.Replace(s, "");
         }
         return res;
     }
-    static string RemoveOthers (string Others, string s)
+    static string RemoveOthers (string Others, string s) // O(n^2)
     {
         string res = s;
          for (int i = 0 ; i < Others.Length; i++)
@@ -63,7 +64,7 @@ class Solution {
         string Distinct = SelectDistinct(s);
         //Console.WriteLine(Distinct);
         int Max = 0;
-        //Select Two Characters
+        //Select Two Characters -- O(D^2 S^2 t) 
         for (int i = 0; i < Distinct.Length; i++)
         {
             for (int j = 0; j < Distinct.Length; j++)
@@ -72,10 +73,13 @@ class Solution {
                 {
                     continue;
                 }
+				//O(D^2)
                 string Others = GetOthers(new string[] {Distinct[i].ToString(),Distinct[j].ToString() }, Distinct);
                 //Console.WriteLine("Pair:" + Distinct[i] + "," + Distinct[j] + " Others:" + Others);
-                string tt = RemoveOthers(Others, s);
+                //O(S*r)
+				string tt = RemoveOthers(Others, s);
                 //Console.WriteLine("After remove:" + tt + " from S:" + s);
+				// O(t)
                 bool b = test(tt);
                 //Console.WriteLine(b);
                 if (b == true)
