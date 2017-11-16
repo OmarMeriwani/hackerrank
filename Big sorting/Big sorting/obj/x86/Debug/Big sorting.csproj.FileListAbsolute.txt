@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Big sorting\bin\Debug\Big sorting.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Big sorting\bin\Debug\Big sorting.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Big sorting\obj\x86\Debug\Big sorting.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Big sorting\obj\x86\Debug\Big sorting.pdb

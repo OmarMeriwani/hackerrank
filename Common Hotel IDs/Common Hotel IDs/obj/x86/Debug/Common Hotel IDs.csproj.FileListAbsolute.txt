@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Common Hotel IDs\bin\Debug\Common Hotel IDs.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Common Hotel IDs\bin\Debug\Common Hotel IDs.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Common Hotel IDs\obj\x86\Debug\Common Hotel IDs.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Common Hotel IDs\obj\x86\Debug\Common Hotel IDs.pdb

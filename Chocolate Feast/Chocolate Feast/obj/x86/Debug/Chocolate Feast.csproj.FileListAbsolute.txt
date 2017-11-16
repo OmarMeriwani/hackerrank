@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Chocolate Feast\bin\Debug\Chocolate Feast.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Chocolate Feast\bin\Debug\Chocolate Feast.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Chocolate Feast\obj\x86\Debug\Chocolate Feast.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Chocolate Feast\obj\x86\Debug\Chocolate Feast.pdb

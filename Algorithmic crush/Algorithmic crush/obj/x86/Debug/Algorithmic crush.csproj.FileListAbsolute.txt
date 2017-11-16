@@ -1,0 +1,6 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush\bin\Debug\Algorithmic crush.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush\bin\Debug\Algorithmic crush.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush\obj\x86\Debug\Algorithmic crush.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Algorithmic crush\obj\x86\Debug\Algorithmic crush.pdb
+D:\مشاريع\مواد\hackerrank\Algorithmic crush\Algorithmic crush\obj\x86\Debug\Algorithmic crush.exe
+D:\مشاريع\مواد\hackerrank\Algorithmic crush\Algorithmic crush\obj\x86\Debug\Algorithmic crush.pdb

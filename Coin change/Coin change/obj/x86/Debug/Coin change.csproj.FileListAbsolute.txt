@@ -1,0 +1,6 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin change\bin\Debug\Coin change.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin change\bin\Debug\Coin change.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin change\obj\x86\Debug\Coin change.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin change\obj\x86\Debug\Coin change.pdb
+D:\مشاريع\مواد\Tests\Coin change\Coin change\obj\x86\Debug\Coin change.exe
+D:\مشاريع\مواد\Tests\Coin change\Coin change\obj\x86\Debug\Coin change.pdb

@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Autocomplete\bin\Debug\Autocomplete.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Autocomplete\bin\Debug\Autocomplete.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Autocomplete\obj\x86\Debug\Autocomplete.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Autocomplete\obj\x86\Debug\Autocomplete.pdb

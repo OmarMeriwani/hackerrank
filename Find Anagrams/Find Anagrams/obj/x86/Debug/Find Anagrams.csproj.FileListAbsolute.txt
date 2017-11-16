@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Find Anagrams\bin\Debug\Find Anagrams.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Find Anagrams\bin\Debug\Find Anagrams.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Find Anagrams\obj\x86\Debug\Find Anagrams.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Find Anagrams\obj\x86\Debug\Find Anagrams.pdb

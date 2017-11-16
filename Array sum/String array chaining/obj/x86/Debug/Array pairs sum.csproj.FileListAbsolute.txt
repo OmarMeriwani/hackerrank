@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Array pairs sum\bin\Debug\Array pairs sum.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Array pairs sum\bin\Debug\Array pairs sum.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Array pairs sum\obj\x86\Debug\Array pairs sum.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Array pairs sum\obj\x86\Debug\Array pairs sum.pdb

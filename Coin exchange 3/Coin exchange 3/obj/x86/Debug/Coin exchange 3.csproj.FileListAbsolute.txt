@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin exchange 3\bin\Debug\Coin exchange 3.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin exchange 3\bin\Debug\Coin exchange 3.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin exchange 3\obj\x86\Debug\Coin exchange 3.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Coin exchange 3\obj\x86\Debug\Coin exchange 3.pdb

@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Best day in hotel\bin\Debug\Best day in hotel.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Best day in hotel\bin\Debug\Best day in hotel.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Best day in hotel\obj\x86\Debug\Best day in hotel.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Best day in hotel\obj\x86\Debug\Best day in hotel.pdb

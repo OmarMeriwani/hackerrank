@@ -1,0 +1,8 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Count of words\bin\Debug\Count of words.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Count of words\bin\Debug\Count of words.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Count of words\obj\x86\Debug\Count of words.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Count of words\obj\x86\Debug\Count of words.pdb
+D:\مشاريع\مواد\Tests\Count of words\Count of words\obj\x86\Debug\Count of words.exe
+D:\مشاريع\مواد\Tests\Count of words\Count of words\obj\x86\Debug\Count of words.pdb
+D:\مشاريع\مواد\Tests\Count of words\Count of words\bin\Debug\Count of words.exe
+D:\مشاريع\مواد\Tests\Count of words\Count of words\bin\Debug\Count of words.pdb

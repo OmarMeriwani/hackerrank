@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Flatland Space Stations\bin\Debug\Flatland Space Stations.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Flatland Space Stations\bin\Debug\Flatland Space Stations.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Flatland Space Stations\obj\x86\Debug\Flatland Space Stations.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Flatland Space Stations\obj\x86\Debug\Flatland Space Stations.pdb

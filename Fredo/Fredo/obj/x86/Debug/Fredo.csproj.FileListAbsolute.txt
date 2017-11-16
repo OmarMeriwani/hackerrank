@@ -1,0 +1,6 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo\bin\Debug\Fredo.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo\bin\Debug\Fredo.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo\obj\x86\Debug\Fredo.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo\obj\x86\Debug\Fredo.pdb
+D:\مشاريع\مواد\Tests\Fredo\Fredo\obj\x86\Debug\Fredo.exe
+D:\مشاريع\مواد\Tests\Fredo\Fredo\obj\x86\Debug\Fredo.pdb

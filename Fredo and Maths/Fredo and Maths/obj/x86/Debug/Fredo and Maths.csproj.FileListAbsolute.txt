@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo and Maths\bin\Debug\Fredo and Maths.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo and Maths\bin\Debug\Fredo and Maths.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo and Maths\obj\x86\Debug\Fredo and Maths.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Fredo and Maths\obj\x86\Debug\Fredo and Maths.pdb

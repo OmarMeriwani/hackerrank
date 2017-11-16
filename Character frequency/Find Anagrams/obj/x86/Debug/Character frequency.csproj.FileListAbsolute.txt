@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Character frequency\bin\Debug\Character frequency.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Character frequency\bin\Debug\Character frequency.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Character frequency\obj\x86\Debug\Character frequency.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Character frequency\obj\x86\Debug\Character frequency.pdb
