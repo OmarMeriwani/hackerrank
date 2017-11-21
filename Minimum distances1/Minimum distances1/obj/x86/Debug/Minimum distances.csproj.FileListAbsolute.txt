@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Minimum distances\bin\Debug\Minimum distances.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Minimum distances\bin\Debug\Minimum distances.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Minimum distances\obj\x86\Debug\Minimum distances.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Minimum distances\obj\x86\Debug\Minimum distances.pdb

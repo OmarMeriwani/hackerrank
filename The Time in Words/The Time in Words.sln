@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The Time in Words", "The Time in Words\The Time in Words.csproj", "{95026A59-1F70-474F-BDD3-72DDEE8D07A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95026A59-1F70-474F-BDD3-72DDEE8D07A9}.Debug|x86.ActiveCfg = Debug|x86
+		{95026A59-1F70-474F-BDD3-72DDEE8D07A9}.Debug|x86.Build.0 = Debug|x86
+		{95026A59-1F70-474F-BDD3-72DDEE8D07A9}.Release|x86.ActiveCfg = Release|x86
+		{95026A59-1F70-474F-BDD3-72DDEE8D07A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

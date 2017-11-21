@@ -1,0 +1,9 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotels guest reviews analysis\bin\Debug\Hotels guest reviews analysis.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotels guest reviews analysis\bin\Debug\Hotels guest reviews analysis.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotels guest reviews analysis\obj\x86\Debug\Hotels guest reviews analysis.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotels guest reviews analysis\obj\x86\Debug\Hotels guest reviews analysis.pdb
+D:\مشاريع\مواد\Tests\Hotels guest reviews analysis\Hotels guest reviews analysis\obj\x86\Debug\Hotels guest reviews analysis.exe
+D:\مشاريع\مواد\Tests\Hotels guest reviews analysis\Hotels guest reviews analysis\obj\x86\Debug\Hotels guest reviews analysis.pdb
+D:\مشاريع\مواد\Tests\Hotels guest reviews analysis\Hotels guest reviews analysis\bin\Debug\Hotels guest reviews analysis.exe
+D:\مشاريع\مواد\Tests\Hotels guest reviews analysis\Hotels guest reviews analysis\bin\Debug\Hotels guest reviews analysis.pdb
+D:\مشاريع\مواد\Tests\Hotels guest reviews analysis\Hotels guest reviews analysis\obj\x86\Debug\Hotels guest reviews analysis.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Help Fredo 2\bin\Debug\Help Fredo 2.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Help Fredo 2\bin\Debug\Help Fredo 2.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Help Fredo 2\obj\x86\Debug\Help Fredo 2.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Help Fredo 2\obj\x86\Debug\Help Fredo 2.pdb

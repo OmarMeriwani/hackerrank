@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\The Time in Words\bin\Debug\The Time in Words.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\The Time in Words\bin\Debug\The Time in Words.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\The Time in Words\obj\x86\Debug\The Time in Words.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\The Time in Words\obj\x86\Debug\The Time in Words.pdb

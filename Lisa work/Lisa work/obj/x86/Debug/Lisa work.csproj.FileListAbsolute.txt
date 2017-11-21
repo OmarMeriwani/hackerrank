@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Lisa work\bin\Debug\Lisa work.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Lisa work\bin\Debug\Lisa work.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Lisa work\obj\x86\Debug\Lisa work.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Lisa work\obj\x86\Debug\Lisa work.pdb

@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Min Max sum\bin\Debug\Min Max sum.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Min Max sum\bin\Debug\Min Max sum.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Min Max sum\obj\x86\Debug\Min Max sum.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Min Max sum\obj\x86\Debug\Min Max sum.pdb

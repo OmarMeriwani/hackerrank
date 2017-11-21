@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotel maximum guests\bin\Debug\Hotel maximum guests.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotel maximum guests\bin\Debug\Hotel maximum guests.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotel maximum guests\obj\x86\Debug\Hotel maximum guests.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Hotel maximum guests\obj\x86\Debug\Hotel maximum guests.pdb

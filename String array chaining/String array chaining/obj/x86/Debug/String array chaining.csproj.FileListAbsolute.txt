@@ -1,0 +1,6 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\String array chaining\bin\Debug\String array chaining.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\String array chaining\bin\Debug\String array chaining.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\String array chaining\obj\x86\Debug\String array chaining.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\String array chaining\obj\x86\Debug\String array chaining.pdb
+D:\مشاريع\مواد\Tests\String array chaining\String array chaining\obj\x86\Debug\String array chaining.exe
+D:\مشاريع\مواد\Tests\String array chaining\String array chaining\obj\x86\Debug\String array chaining.pdb

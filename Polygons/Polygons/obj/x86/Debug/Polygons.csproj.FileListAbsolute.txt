@@ -1,0 +1,6 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Polygons\bin\Debug\Polygons.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Polygons\bin\Debug\Polygons.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Polygons\obj\x86\Debug\Polygons.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Polygons\obj\x86\Debug\Polygons.pdb
+D:\مشاريع\مواد\Tests\Polygons\Polygons\obj\x86\Debug\Polygons.exe
+D:\مشاريع\مواد\Tests\Polygons\Polygons\obj\x86\Debug\Polygons.pdb

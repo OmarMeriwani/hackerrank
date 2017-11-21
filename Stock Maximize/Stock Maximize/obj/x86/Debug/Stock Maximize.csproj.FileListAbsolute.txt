@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Stock Maximize\bin\Debug\Stock Maximize.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Stock Maximize\bin\Debug\Stock Maximize.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Stock Maximize\obj\x86\Debug\Stock Maximize.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Stock Maximize\obj\x86\Debug\Stock Maximize.pdb

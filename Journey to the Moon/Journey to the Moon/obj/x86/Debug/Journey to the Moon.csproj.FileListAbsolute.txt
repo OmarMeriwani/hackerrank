@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Journey to the Moon\bin\Debug\Journey to the Moon.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Journey to the Moon\bin\Debug\Journey to the Moon.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Journey to the Moon\obj\x86\Debug\Journey to the Moon.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Journey to the Moon\obj\x86\Debug\Journey to the Moon.pdb

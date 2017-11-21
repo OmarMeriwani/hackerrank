@@ -1,0 +1,6 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Open brackets\bin\Debug\Open brackets.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Open brackets\bin\Debug\Open brackets.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Open brackets\obj\x86\Debug\Open brackets.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Open brackets\obj\x86\Debug\Open brackets.pdb
+D:\مشاريع\مواد\Tests\Open brackets\Open brackets\obj\x86\Debug\Open brackets.exe
+D:\مشاريع\مواد\Tests\Open brackets\Open brackets\obj\x86\Debug\Open brackets.pdb

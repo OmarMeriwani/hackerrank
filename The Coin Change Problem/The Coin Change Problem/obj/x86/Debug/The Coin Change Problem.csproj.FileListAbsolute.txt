@@ -1,0 +1,8 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\The Coin Change Problem\bin\Debug\The Coin Change Problem.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\The Coin Change Problem\bin\Debug\The Coin Change Problem.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\The Coin Change Problem\obj\x86\Debug\The Coin Change Problem.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\The Coin Change Problem\obj\x86\Debug\The Coin Change Problem.pdb
+D:\مشاريع\مواد\Tests\The Coin Change Problem\The Coin Change Problem\obj\x86\Debug\The Coin Change Problem.exe
+D:\مشاريع\مواد\Tests\The Coin Change Problem\The Coin Change Problem\obj\x86\Debug\The Coin Change Problem.pdb
+D:\مشاريع\مواد\Tests\The Coin Change Problem\The Coin Change Problem\bin\Debug\The Coin Change Problem.exe
+D:\مشاريع\مواد\Tests\The Coin Change Problem\The Coin Change Problem\bin\Debug\The Coin Change Problem.pdb

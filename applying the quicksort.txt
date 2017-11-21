@@ -1,0 +1,182 @@
+get value in the high place.
+get value in the place before the low place.
+loop from low to high
+if the current is less than the one at the high place or equal to it
+	swap the value of the low place with the current
+	get the next low place.
+//After the loop
+swap the last updated low place with high
+return the last updated low place
+
+do the operation again starting from the low to last low place 
+			    and from the last low place to high
+
+19 6 3 3 7 4 1 13 2 5 4 7 
+
+pivot = 7
+i = -1
+
+loop from 0 to 11
+	if (current(19) <= pivot(7))
+ 		//Will not work
+	the loop will end without doing anything
+swap 19 with 7
+return 0
+
+from 0 to 11
+and 0 to 0
+
+7 6 3 3 7 4 1 13 2 5 4 19
+pivot = 19
+i = -1 
+loop from 0 to 11
+	if (current(7) <= pivot(19))
+		swap (i (after incrementing)) with arr[j]
+		nothing because i and j are the same
+		but i = 0 while j = 1
+	if (current (6) <= pivot(19))
+		swap 6 with 7
+		i= 1
+6 7 3 3 7 4 1 13 2 5 4 19
+	if (current(3) <= 19)
+		swap 3 with 7
+		i = 2
+6 3 7 3 7 4 1 13 2 5 4 19
+	if (current 7 <= 19)
+		
+	if (current 3 <= 19)
+		nothing
+	if (current 3 <= 19)
+		nothing
+	if (current 7 )
+
+As simple as possbile bring the ones who are larger than the pivot closer to it
+
+
+3 2 1 4 6 5 7 9 2 10
+
+i = -1
+piv = 10
+
+j = 0
+if 3 <= 10 then
+i = 0
+swap:
+3 2 1 4 6 5 7 9 2 10
+
+j = 1
+if 2 <= 10
+i = 1
+swap:
+3 2 1 4 6 5 7 9 2 10
+
+j = 2
+if 1 <= 10
+i = 2
+swap:
+3 2 1 4 5 6 7 9 2 10
+
+.... 
+it will still the same until i	= 9 and nothing will happen
+next round:
+
+3 2 1 4 5 6 7 9 2
+i = -1
+
+j = 0
+if 3 <= 2
+no swap
+
+j = 1
+if 2 <= 2
+i = 0
+swap 0 with 1:
+2 3 1 4 5 6 7 9 2
+
+j = 2
+if 3 <= 2
+i = 1
+swap 0 with 1:
+2 1 3 4 5 6 7 9 2
+
+j = 3
+if 3 <= 2
+no swap
+2 1 3 4 5 6 7 9 2
+
+j = 4
+if 5 <= 2
+no swap
+2 1 3 4 5 6 7 9 2
+
+the same until 9
+i = 1
+
+swap 3 with 2
+
+2 1 2 4 5 6 7 9 3
+
+i = -1
+j = 0
+if 2 <= 3
+i = 0
+swap 0 with 0 nothing happens
+2 1 2 4 5 6 7 9 3
+
+j = 1
+if 1 <= 3
+i = 1
+nothing
+2 1 2 4 5 6 7 9 3
+
+j = 2
+if 2 <= 3
+i  =2
+nothing
+2 1 2 4 5 6 7 9 3
+
+j = 3
+if 4 <= 3
+no swap
+2 1 2 4 5 6 7 9 3
+
+j = 4
+if 5 <= 3
+no swap
+2 1 2 4 5 6 7 9 3
+
+the same until 9 and i will still 2
+swap 3 with 4
+2 1 2 3 5 6 7 9 4
+return 4 as pi
+
+2 1 2 3
+5 6 7 9 4
+
+2 1 2 3
+2 1 2 3
+2 1 2 3
+
+
+2 1 2
+2 1 2
+2 1 2
+2 1
+1 2
+
+1 2 2
+1 2 2 3
+
+5 6 7 9 4
+after 4 checks
+4 5 6 7 9
+return pivot 0
+from 0 to 0 
+from 0 to 4
+4 5 6 7 9
+after 4 checks
+low will be equal to high
+
+1 2 2 3 4 5 6 7 9
+
+

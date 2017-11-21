@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Perfect square\bin\Debug\Perfect square.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Perfect square\bin\Debug\Perfect square.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Perfect square\obj\x86\Debug\Perfect square.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Perfect square\obj\x86\Debug\Perfect square.pdb

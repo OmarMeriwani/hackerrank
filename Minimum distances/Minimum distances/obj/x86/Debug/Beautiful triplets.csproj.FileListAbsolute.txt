@@ -1,0 +1,4 @@
+C:\Users\Omar\AppData\Local\Temporary Projects\Beautiful triplets\bin\Debug\Beautiful triplets.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Beautiful triplets\bin\Debug\Beautiful triplets.pdb
+C:\Users\Omar\AppData\Local\Temporary Projects\Beautiful triplets\obj\x86\Debug\Beautiful triplets.exe
+C:\Users\Omar\AppData\Local\Temporary Projects\Beautiful triplets\obj\x86\Debug\Beautiful triplets.pdb

@@ -10,6 +10,8 @@ namespace itoa
 
         static void Main(string[] args)
         {
+            int g = 1005 / 10;
+            Console.WriteLine(g);
             result = convert(354000780);
             Console.WriteLine(result);
             Console.ReadLine();
